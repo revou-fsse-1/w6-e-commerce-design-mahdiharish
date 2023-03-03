@@ -51,4 +51,4 @@ function createOrder(products) {
 
 ### Complexity Analysis
 
-Complexity of the function above is O(n) because generally any loop function is O(n), but based from the function above, we need to loop every products in the array, thus each product available in database means more loop happens. This function will work just fine as long as the products (n) is still in manageable numbers (<1000 is desirable).
+Complexity of the function above is O(n) because of n times looping with input of array of objects, where the loops happen based from the length of n. The more the input, the time needed to check the algorithm will be longer, based from the n length.
