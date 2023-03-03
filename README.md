@@ -21,7 +21,7 @@ This system design offers benefits such as:
 2. Any features can be loosely coupled, where we can develop and deploy any service independently without causing much trouble.
 3. Codebase for each server will be smaller and simpler, where any developers can understand it pretty easily and can detect any problem much quicker.
 
-All informations above are based from
+All informations above are quoted from [freeCodeCamp](https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/#microservices-architecture)
 
 ## Create Order
 
